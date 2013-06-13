@@ -10,10 +10,10 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Jekyll Bootstrap
-tagline: This is awasome test site.
+tagline: Site Tagline
 author :
-  name : Masaaki Sano
-  email : est.sano@gmail.com
+  name : estmsk
+  email : blah@email.test
   github : estmsk
   twitter : username
   feedburner : feedname
